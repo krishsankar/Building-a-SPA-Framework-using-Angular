@@ -1,0 +1,2 @@
+# Building-a-SPA-Framework-using-Angular
+Do you need a starting point for your Angular SPAs? Menus, dashboards, and widgets are important parts of many Angular apps. In this course, we'll build components to easily add these items to any project. We'll build a feature-rich menu system from scratch, then we'll use angular-gridster to create a dashboard and widget system. We'll package these components with Gulp so that they can be used in any Angular application.
